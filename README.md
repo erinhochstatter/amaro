@@ -1,13 +1,15 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Don't stop thinking about amaro! 🥃 This is a little test app to teach myself to use vue, and put some niceties around my little cocktail-tracking spreadsheet. 
 
-Things you may want to cover:
+## High-level App Elements
 
-* Ruby version
+* Ruby (2.7.1) on Rails (6.0.3.3) backend setup with API
 
-* System dependencies
+* Webpacker configured for Vue. 
+
+## Configuration & Setup Instructions
+* Coming soon, once I actually set them up myself.😄
 
 * Configuration
 
@@ -15,10 +17,7 @@ Things you may want to cover:
 
 * Database initialization
 
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
+* Tests are Rspec, with shoulda matchers
 
 * Deployment instructions
 
-* ...
