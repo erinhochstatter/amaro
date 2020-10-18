@@ -7,11 +7,11 @@ FactoryBot.define do
 
     factory :recipe_with_ingredient_recipes do
       transient do
-        posts_count { 5 }
+        ingredient_count { 5 }
       end
 
       after(:create) do |recipe, evaluator|
-        create_list(:ingredient_recipe, evaluator.posts_count, recipe: recipe)
+        create_list(:ingredient_recipe, evaluator.ingredient_count, recipe: recipe)
 
         recipe.reload
       end

@@ -20,18 +20,3 @@ Don't stop thinking about amaro! 🥃 This is a little test app to teach myself 
 * Tests are Rspec, with shoulda matchers
 
 * Deployment instructions
-
-
-
-
-Recipe
-- name (no name delegates to ingredient)
-- description
-- steps/instructions
-
-IngredientRecipe
-- belongs to an ingredient
-- belongs to a recipe
-- quantity
-- unit
-- note
