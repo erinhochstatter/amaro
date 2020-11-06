@@ -21,7 +21,7 @@ Bundler.require(*Rails.groups)
 
 module Amaro
   class Application < Rails::Application
-    # Initialize configuration defaults for originally generated Rails version.
+    config.api_only = true
     config.load_defaults 6.0
 
     # Settings in config/environments/* take precedence over those specified here.
@@ -31,6 +31,7 @@ module Amaro
 
     # Don't generate system test files.
     config.generators.system_tests = nil
+
 
     config.factory_bot.definition_file_paths = ["custom/factories"]
   end
