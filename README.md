@@ -1,6 +1,6 @@
 # README
 
-Don't stop thinking about amaro! 🥃 This is a little test app to teach myself to use vue, and put some niceties around my little cocktail-tracking spreadsheet.
+Don't stop thinking about amaro! 🥃 This is a little test app to teach myself to use svelte, and put some niceties around my little cocktail-tracking spreadsheet.
 
 ## High-level App Elements
 
