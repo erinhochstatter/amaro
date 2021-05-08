@@ -9,15 +9,42 @@ module Types
       argument :id, ID, required: true
     end
 
-    field :pours, [Types::PourType, null: true], "All the pours", null: false
+    field :recipe, RecipeType, null: true do
+      description "Find a recipe by ID"
+      argument :id, ID, required: true
+    end
 
-  # Then provide an implementation:
+    field :ingredient_recipe, IngredientRecipeType, null: true do
+      description "Find an ingredient for a recipe by ID"
+      argument :id, ID, required: true
+    end
+
+    field :pours, [Types::PourType], "All the pours", null: false
+    field :recipes, [Types::RecipeType], "All the recipes", null: false
+    field :ingredient_recipes, [Types::IngredientRecipeType], "All the ingredient_recipes", null: false
+
     def pour(id:)
       Pour.find(id)
     end
 
     def pours
       Pour.all
+    end
+
+    def recipe(id:)
+      Recipe.find(id)
+    end
+
+    def recipes
+      Recipe.all
+    end
+
+    def ingredient_recipe(id:)
+      IngredientRecipe.find(id)
+    end
+
+    def ingredient_recipes
+      IngredientRecipe.all
     end
   end
 end

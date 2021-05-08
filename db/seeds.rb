@@ -1,22 +1,17 @@
 # This file should contain all the record creation needed to seed the database with its default values.
 # The data can then be loaded with the rails db:seed command (or created alongside the database with db:setup).
 #
+File.open('db/fixtures/recipes.json', "r") do |f|
+  recipes_json = JSON.parse(f.read)
+  recipes_json.each do |recipe|
 
-puts "Creating ingredients that are also recipes"
-complex_ingredients = FactoryBot.create_list(:ingredient, 2)
+    recipe_model = Recipe.create(title: recipe["title"], mixologist: recipe["mixologist"], description: recipe["description"], original_url: recipe["url"], publication: "Imbibe Magazine", equipment: recipe["equipment"], glass: recipe["serving"], garnish: recipe["garnish"])
 
-complex_ingredients.each do |ingredient|
-  FactoryBot.create(:recipe, ingredient: ingredient)
-end
-
-puts "Making recipes..."
-recipes = FactoryBot.create_list(:recipe_with_ingredient_recipes, 5)
-
-puts "Adding linking up ingredients that are recipes"
-recipes.each do |recipe|
-  FactoryBot.create(:ingredient_recipe, recipe: recipe, ingredient: complex_ingredients.sample)
-
-  puts "Mixing up some pours"
-  FactoryBot.create(:pour, recipe: recipe)
+    recipe["ingredients"]&.each do |item|
+      ingredient = Ingredient.find_or_create_by(name: item["name"], description: item["description"])
+      unit = Unit.find_or_create_by(name: item["unit"])
+      IngredientRecipe.create(recipe_id: recipe_model.id, ingredient_id: ingredient.id, unit: unit, quantity: item["amount"])
+    end
+  end
 end
 

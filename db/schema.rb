@@ -49,6 +49,10 @@ ActiveRecord::Schema.define(version: 2020_10_16_231341) do
     t.string "mixologist", null: false
     t.text "description", null: false
     t.string "original_url"
+    t.string "publication"
+    t.string "glass"
+    t.string "equipment"
+    t.string "garnish"
     t.bigint "ingredient_id"
     t.datetime "created_at", precision: 6, null: false
     t.datetime "updated_at", precision: 6, null: false

@@ -11,6 +11,10 @@ class CreateInitialModels < ActiveRecord::Migration[6.0]
       t.string :mixologist, null: false
       t.text :description, null: false
       t.string :original_url
+      t.string :publication
+      t.string :glass
+      t.string :equipment
+      t.string :garnish
       t.belongs_to :ingredient, foreign_key: true
       t.timestamps
     end
