@@ -6,7 +6,7 @@ Don't stop thinking about amaro! 🥃 This is a little test app to teach myself 
 
 * Ruby (2.7.1) on Rails (6.0.3.3) backend setup with API
 
-* Webpacker configured for Vue.
+* Webpacker configured for Svelte.
 
 ## Configuration & Setup Instructions
 * Coming soon, once I actually set them up myself.😄
