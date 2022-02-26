@@ -1,0 +1,71 @@
+"""
+An ISO 8601-encoded datetime
+"""
+scalar ISO8601DateTime
+
+type Ingredient {
+  description: String!
+  id: ID!
+  name: String!
+}
+
+type IngredientRecipe {
+  description: String
+  id: ID!
+  ingredient: Ingredient!
+  quantity: Float
+  unit: Unit
+}
+
+type Pour {
+  id: ID!
+  location: String!
+  preparedAt: ISO8601DateTime!
+  recipe: Recipe!
+}
+
+type Query {
+  """
+  Find an ingredient for a recipe by ID
+  """
+  ingredientRecipe(id: ID!): IngredientRecipe
+
+  """
+  All the ingredient_recipes
+  """
+  ingredientRecipes: [IngredientRecipe!]!
+
+  """
+  Find a pour by ID
+  """
+  pour(id: ID!): Pour
+
+  """
+  All the pours
+  """
+  pours: [Pour!]!
+
+  """
+  Find a recipe by ID
+  """
+  recipe(id: ID!): Recipe
+
+  """
+  All the recipes
+  """
+  recipes: [Recipe!]!
+}
+
+type Recipe {
+  description: String!
+  id: ID!
+  ingredientRecipes: [IngredientRecipe!]!
+  mixologist: String!
+  originalUrl: String!
+  title: String!
+}
+
+type Unit {
+  id: ID!
+  name: String!
+}

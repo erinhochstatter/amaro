@@ -6,7 +6,7 @@ RSpec.describe Types::QueryType do
 
   context "fields" do
     subject { described_class }
-    let(:fields) { %w[pour pours] }
+    let(:fields) { %w[pour pours ingredientRecipe ingredientRecipes recipe recipes] }
 
     it "has the proper fields" do
       expect(subject.fields.keys).to match_array(fields)

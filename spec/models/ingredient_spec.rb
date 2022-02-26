@@ -10,7 +10,6 @@ RSpec.describe Ingredient, type: :model do
   end
 
   context "associations" do
-    it { is_expected.to have_one(:recipe).dependent(:destroy) }
     it { is_expected.to have_many(:ingredient_recipes).dependent(:destroy) }
   end
 

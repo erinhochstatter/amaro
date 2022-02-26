@@ -15,7 +15,6 @@ class CreateInitialModels < ActiveRecord::Migration[6.0]
       t.string :glass
       t.string :equipment
       t.string :garnish
-      t.belongs_to :ingredient, foreign_key: true
       t.timestamps
     end
 

@@ -9,8 +9,7 @@ RSpec.describe Recipe, type: :model do
   end
 
   context "associations" do
-    it { is_expected.to belong_to(:ingredient).optional }
-    it { is_expected.to have_many(:ingredient_recipes) }
+    it { is_expected.to have_many(:ingredient_recipes).dependent(:destroy) }
   end
 
   context "validations" do
