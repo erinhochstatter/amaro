@@ -10,19 +10,18 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 2020_10_16_231341) do
-
+ActiveRecord::Schema[7.0].define(version: 2020_10_16_231341) do
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
 
   create_table "ingredient_recipes", force: :cascade do |t|
-    t.bigint "recipe_id", null: false
-    t.bigint "ingredient_id", null: false
-    t.bigint "unit_id"
+    t.integer "recipe_id", null: false
+    t.integer "ingredient_id", null: false
+    t.integer "unit_id"
     t.float "quantity"
     t.text "description"
-    t.datetime "created_at", precision: 6, null: false
-    t.datetime "updated_at", precision: 6, null: false
+    t.datetime "created_at", null: false
+    t.datetime "updated_at", null: false
     t.index ["ingredient_id"], name: "index_ingredient_recipes_on_ingredient_id"
     t.index ["recipe_id"], name: "index_ingredient_recipes_on_recipe_id"
     t.index ["unit_id"], name: "index_ingredient_recipes_on_unit_id"
@@ -31,16 +30,16 @@ ActiveRecord::Schema.define(version: 2020_10_16_231341) do
   create_table "ingredients", force: :cascade do |t|
     t.string "name", null: false
     t.text "description"
-    t.datetime "created_at", precision: 6, null: false
-    t.datetime "updated_at", precision: 6, null: false
+    t.datetime "created_at", null: false
+    t.datetime "updated_at", null: false
   end
 
   create_table "pours", force: :cascade do |t|
-    t.bigint "recipe_id", null: false
-    t.datetime "prepared_at", null: false
+    t.integer "recipe_id", null: false
+    t.datetime "prepared_at", precision: nil, null: false
     t.string "location", null: false
-    t.datetime "created_at", precision: 6, null: false
-    t.datetime "updated_at", precision: 6, null: false
+    t.datetime "created_at", null: false
+    t.datetime "updated_at", null: false
     t.index ["recipe_id"], name: "index_pours_on_recipe_id"
   end
 
@@ -53,14 +52,14 @@ ActiveRecord::Schema.define(version: 2020_10_16_231341) do
     t.string "glass"
     t.string "equipment"
     t.string "garnish"
-    t.datetime "created_at", precision: 6, null: false
-    t.datetime "updated_at", precision: 6, null: false
+    t.datetime "created_at", null: false
+    t.datetime "updated_at", null: false
   end
 
   create_table "units", force: :cascade do |t|
     t.string "name", null: false
-    t.datetime "created_at", precision: 6, null: false
-    t.datetime "updated_at", precision: 6, null: false
+    t.datetime "created_at", null: false
+    t.datetime "updated_at", null: false
   end
 
   add_foreign_key "ingredient_recipes", "ingredients"
