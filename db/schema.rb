@@ -73,7 +73,7 @@ ActiveRecord::Schema[7.0].define(version: 2022_02_26_235249) do
 
   create_table "recipes", force: :cascade do |t|
     t.string "title", null: false
-    t.string "mixologist", null: false
+    t.string "mixologist"
     t.text "description", null: false
     t.string "original_url"
     t.string "publication"

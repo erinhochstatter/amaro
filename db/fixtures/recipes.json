@@ -2,7 +2,7 @@
   {
     "title": "Americano Shandy Recipe",
     "url": "https://imbibemagazine.com/recipe/americano-shandy-recipe/",
-    "description": "In the Americano Shandy recipe, a hoppy lager lends extra depth to the classic combo of bitter Campari and sweet vermouth. This recipe makes 2 cocktails.",
+    "description": "In the Americano Shandy recipe, a hoppy lager lends extra depth to the classic combo of bitter Campari and sweet vermouth. This recipe makes 2 cocktails.",
     "mixologist": "Reprinted with permission from Aperitif: A Spirited Guide to the Drinks, History and Culture of the Aperitif, by Kate Hawkings. Published by Quadrille September 2018.",
     "ingredients": [
       {"amount": 1, "unit": "oz.", "name": "Campari"},
@@ -10,13 +10,15 @@
       {"amount": 12, "unit": "oz.", "name": "lager"}],
     "equipment": "barspoon",
     "serving": "any kind of beer glass",
-    "instructions": "Divide the Campari and vermouth between 2 glasses. Add ice and top up each glass with the beer, stirring gently to mix."
+    "instructions": "Divide the Campari and vermouth between 2 glasses. Add ice and top up each glass with the beer, stirring gently to mix.",
+    "date": "19/10/2018",
+    "made_at": "Tandem Office"
   },
   {
     "title": "Aperitif Cocktail: Three Sunsets",
     "url": "https://imbibemagazine.com/recipe/aperitif-cocktail-three-sunsets/",
     "description": "To mimic the reds and pinks of a summer sunset, this low-proof aperitif cocktail combines red Campari with the russet hue of Cocchi di Torino and soft pink rosé.",
-    "mixologist": "Camille Cavan, Quaintrelle, Portland, Oregon",
+    "mixologist": "Camille Cavan, Quaintrelle, Portland, Oregon",
     "ingredients": [
       {"amount": 1, "unit": "oz.", "name": "Campari"},
       {"amount": 1, "unit": "oz.", "name": "Cocchi di Torino"},
@@ -28,12 +30,14 @@
     "equipment": "shaker, strainer, fine strainer",
     "serving": "rocks",
     "garnish": "amarena cherry and sage leaf",
-    "instructions": "Add all the ingredients except rosé to a shaker with ice. Shake and then double strain into glass over fresh ice. Top with 2, oz., of brut sparkling rosé and garnish."
+    "instructions": "Add all the ingredients except rosé to a shaker with ice. Shake and then double strain into glass over fresh ice. Top with 2, oz., of brut sparkling rosé and garnish.",
+    "date": "16/07/2018",
+    "made_at": "Tandem Office"
   },
   {
     "title": "Barrel Colada Cocktail",
     "url": "https://imbibemagazine.com/recipe/barrel-colada/",
-    "description": "The Piña Colada cocktail gets a modern twist with barrel-aged gin and a banana coconut syrup at Watershed Distillery’s Kitchen and Bar in Columbus, Ohio.",
+    "description": "The Piña Colada cocktail gets a modern twist with barrel-aged gin and a banana coconut syrup at Watershed Distillery's Kitchen and Bar in Columbus, Ohio.",
     "mixologist": "Josh Gandee, Watershed Kitchen and Bar, Columbus, Ohio",
     "ingredients": [
       {"amount": 1.25, "unit": "oz.", "name": "barrel-aged gin", "description": "(Gandee uses Watershed barrel-aged gin)"},
@@ -43,7 +47,9 @@
     "equipment": "shaker, strainer",
     "serving": "collins",
     "garnish": "mint bouquet, dehydrated banana",
-    "instructions": "Combine all ingredients in a shaker tin and shake to chill. Strain over crushed ice. Garnish with a mint bouquet and dehydrated banana."
+    "instructions": "Combine all ingredients in a shaker tin and shake to chill. Strain over crushed ice. Garnish with a mint bouquet and dehydrated banana.",
+    "date": "26/04/2019",
+    "made_at": "Tandem Office"
   },
   {
     "title": "Basil Cocktail from Pobrecito",
@@ -62,7 +68,9 @@
     "equipment": "muddler, shaker, strainer, fine strainer",
     "serving": "rocks",
     "garnish": "basil leaf",
-    "instructions": "Muddle 2 basil leaves in a shaker tin. Add the remaining ingredients and ice. Shake until chilled. Fine strain into a rocks glass over a large ice cube. Garnish."
+    "instructions": "Muddle 2 basil leaves in a shaker tin. Add the remaining ingredients and ice. Shake until chilled. Fine strain into a rocks glass over a large ice cube. Garnish.",
+    "date": "22/03/2019",
+    "made_at": "Tandem Office"
   },
   {
     "title": "Beer Cocktail: Jealous Moon",
@@ -79,12 +87,15 @@
     "equipment": "shaker, strainer",
     "serving": "snifter",
     "garnish": "mint sprig",
-    "instructions": "Combine all the ingredients except the beer in a shaker and shake with ice to chill. Strain into a snifter filled with large ice cubes. Top with beer; garnish."
+    "instructions": "Combine all the ingredients except the beer in a shaker and shake with ice to chill. Strain into a snifter filled with large ice cubes. Top with beer; garnish.",
+    "date": "24/05/2019",
+    "made_at": "Tandem Office"
   },
   {
     "title": "Bitter Giuseppe Cocktail",
     "url": "https://imbibemagazine.com/recipe/bitter-giuseppe-cocktail/",
     "description": "A modern classic with Cynar, sweet vermouth, lemon and orange bitters.",
+    "mixologist": "Stephen Cole, The Violet Hour, Chicago",
     "ingredients": [
       {"amount": 2, "unit": "oz.", "name": "cynar"},
       {"amount": 1, "unit": "oz.", "name": "sweet vermouth (cole uses carpano antica)"},
@@ -94,25 +105,30 @@
     "instructions": "Stir all the ingredients together in a mixing glass with ice until chilled. Strain into a rocks glass over a single large ice cube and garnish.",
     "equipment": "mixing glass, barspoon",
     "serving": "old fashioned",
-    "garnish": "lemon peel"
+    "garnish": "lemon peel",
+    "date": "26/10/2018",
+    "made_at": "Tandem Office"
   },
   {
     "title": "Calimocho Cocktail",
     "url": "https://imbibemagazine.com/recipe/calimocho-cocktail/",
     "description": "A simple stir of red wine and cola, the Calimocho (or Kalimoxto), is a summer classic in Spain. Inexpensive, dry red wine works well (like Grenache or Shiraz), and Booze and Vinyl authors André Darlington & Tenaya Darlington suggest lemon-lime soda for a twist. Pair it with their Summer Grill + Chill playlist.",
-    "mixologist": "Reprinted with permission from Booze & Vinyl: A Spirited Guide to Great Music and Mixed Drinks, © 2018 by André Darlington & Tenaya Darlington, Running Press.",
+    "mixologist": "Reprinted with permission from Booze & Vinyl: A Spirited Guide to Great Music and Mixed Drinks, © 2018 by André Darlington & Tenaya Darlington, Running Press.",
     "ingredients": [
       {"amount": 3, "unit": "oz.", "name": "red wine"},
       {"amount": 3, "unit": "oz.", "name": "cola"}],
     "equipment": "barspoon",
     "serving": "rocks",
     "garnish": "lime wedge",
-    "instructions": "Combine the wine and cola in cups filled with ice. Give it a quick stir. Garnish."
+    "instructions": "Combine the wine and cola in cups filled with ice. Give it a quick stir. Garnish.",
+    "date": "13/07/2018",
+    "made_at": "Tandem Office"
   },
   {
     "title": "Whiskey Champagne Punch",
     "url": "https://imbibemagazine.com/recipe/champagne-whiskey-punch/",
-    "description": "It’s finally patio season, and The Dawson in Chicago recently rolled out a long list of refreshing punches fit for the occasion. The Champagne Whiskey Punch presents a blend of tart raspberries and bright lemon that helps temper the oak and vanilla flavors of the whiskey. Champagne brings a snappy punch of bubbles to the mix. Batch one up for your next patio party.",
+    "mixologist": "The Dawson in Chicago",
+    "description": "It's finally patio season, and The Dawson in Chicago recently rolled out a long list of refreshing punches fit for the occasion. The Champagne Whiskey Punch presents a blend of tart raspberries and bright lemon that helps temper the oak and vanilla flavors of the whiskey. Champagne brings a snappy punch of bubbles to the mix. Batch one up for your next patio party.",
     "ingredients": [
       {"amount": 8, "unit": "oz.", "name": "Bourbon (Old Forrester 90 Proof)"},
       {"amount": 5, "unit": "oz.", "name": "lemon"},
@@ -122,22 +138,28 @@
       {"amount": 1, "unit": "bottle", "name": "sparkling wine", "description": "(Dawson uses Piper Heidsieck)"}],
     "equipment": "punch bowl, bar spoon",
     "serving": "punch glass or coupe",
-    "instructions": "Combine the whiskey, lemon, bitters and syrups together in a punch bowl over a large ice cube and stir until ingredients are integrated. Top with sparkling wine. No garnish. Serves 6-8."
+    "instructions": "Combine the whiskey, lemon, bitters and syrups together in a punch bowl over a large ice cube and stir until ingredients are integrated. Top with sparkling wine. No garnish. Serves 6-8.",
+    "date": "31/12/2015",
+    "made_at": "Fairfield Condo"
   },
   {
     "title": "Classic Hot Toddy",
     "url": "https://imbibemagazine.com/recipe/classic-hot-toddy/",
     "description": "The ultimate winter warmer.",
+    "mixologist": "Jim Meehan",
     "ingredients": [
       {"amount": 1.5, "unit": "oz.", "name": "Irish whiskey"},
       {"amount": 1, "unit": "oz.", "name": "honey syrup*"},
       {"amount": 4, "unit": "oz.", "name": "hot water"}],
       "garnish": "half lemon wheel studded with cloves",
-      "instructions": "Preheat a tempered mug, then add the hot water, Irish whiskey, and honey syrup. Garnish. \n*Meehan makes a slightly richer syrup using two-thirds honey to one-third water, but he says sweetening with sugar, agave or maple syrup works just as well."
+      "instructions": "Preheat a tempered mug, then add the hot water, Irish whiskey, and honey syrup. Garnish. \n*Meehan makes a slightly richer syrup using two-thirds honey to one-third water, but he says sweetening with sugar, agave or maple syrup works just as well.",
+      "date": "18/01/2019",
+      "made_at": "Tandem Office"
   },
   {
     "title": "Apple Brandy Cocktail: Concrete Slippers",
     "url": "https://imbibemagazine.com/recipe/concrete-slippers-apple-brandy-cocktail/",
+    "mixologist": "David Ruiz, at Junior in San Francisco",
     "description": "For this cocktail from Junior in San Francisco, owner David Ruiz mixes warming apple brandy with spicy ancho chile. “The ancho provides depth and warmth and plays perfectly with the ginger and the apple brandy,” says Ruiz.",
     "ingredients":  [
     {"amount": 1.5, "unit": "oz.", "name": "apple brandy"},
@@ -150,12 +172,15 @@
     "equipment": "shaker, strainer",
     "serving": "Collins",
     "garnish": "2 Luxardo cherries",
-    "instructions": "Combine all of the ingredients in a shaker with ice. Shake until chilled, then strain into a Collins glass over ice (Ruiz uses pebble ice at the bar)."
+    "instructions": "Combine all of the ingredients in a shaker with ice. Shake until chilled, then strain into a Collins glass over ice (Ruiz uses pebble ice at the bar).",
+    "date": "27/04/2018",
+    "made_at": "Tandem Office"
   },
   {
     "title": "Corpse Reviver No. Blue",
     "url": "https://imbibemagazine.com/recipe/corpse-reviver-no-blue/",
-    "description": "Back in 2007, Jacob Briars introduced this cheeky homage to the Corpse Reviver No. 2 with blue curaçao instead of Cointreau. “It tastes broadly and very much like a classic cocktail from the 1920s and ’30s—it just happens to be blue,” Briars says. He usually reaches for a blue bottle of Bombay Sapphire gin to seal the deal.",
+    "description": "Back in 2007, Jacob Briars introduced this cheeky homage to the Corpse Reviver No. 2 with blue curaçao instead of Cointreau. “It tastes broadly and very much like a classic cocktail from the 1920s and '30s—it just happens to be blue,” Briars says. He usually reaches for a blue bottle of Bombay Sapphire gin to seal the deal.",
+    "mixologist": "Jacob Briars",
     "ingredients": [
       {"amount": 1, "unit": "oz.", "name": "gin"},
       {"amount": 1, "unit": "oz.", "name": "Lillet Blanc (or Cocchi Americano)"},
@@ -165,12 +190,15 @@
     "equipment": "shaker, strainer, fine strainer",
     "serving": "coupe",
     "garnish": "lemon peel",
-    "instructions": "Shake ingredients with ice to chill, then fine strain into a chilled coupe. Garnish."
+    "instructions": "Shake ingredients with ice to chill, then fine strain into a chilled coupe. Garnish.",
+    "date": "24/08/2018",
+    "made_at": "Tandem Office"
   },
   {
     "title": "Deep South Cocktail",
     "url": "https://imbibemagazine.com/recipe/deep-south-cocktail/",
-    "description": "Mezcal infused peaches add a summery spin to this whiskey sour from Houston bartender Sean Beck.",
+    "mixologist": "Sean Beck",
+    "description": "Mezcal infused peaches add a summery spin to this whiskey sour from Houston bartender Sean Beck.",
     "instructions": "In a shaker, combine all ingredients with ice and shake well. Fine strain into an Old Fashioned glass over a large ice cube and garnish with the lemon and peach slices.",
     "equipment": "shaker, fine strainer",
     "serving": "Old Fashioned",
@@ -180,12 +208,14 @@
       {"amount": 3, "unit": "dash", "name": "peach bitters"},
       {"amount": 1, "unit": "oz.", "name": "fresh lemon juice"},
       {"amount": 1, "unit": "oz.", "name": "mezcal peach syrup"}
-    ]
+    ],
+    "date": "21/09/2018",
+    "made_at": "Tandem Office"
   },
   {
     "title": "Mezcal Cocktail: DJ Lisa",
     "url": "https://imbibemagazine.com/recipe/dj-lisa-mezcal-cocktail/",
-    "mixologist": "Alex Maynard, Starline Social Club, Oakland, California",
+    "mixologist": "Alex Maynard, Starline Social Club, Oakland, California",
     "description": "In this mezcal cocktail from Starline Social Club, the agave spirit finds a perfect flavor match in citrus and cinnamon.",
     "ingredients": [
     {"amount": 2, "unit": "oz.", "name": "mezcal", "description": "(Starline uses Del Maguey Vida)"},
@@ -196,7 +226,9 @@
     "equipment": "shaker, strainer",
     "serving": "rocks",
     "garnish": "grapefruit twist",
-    "instructions": "Shake all the ingredients with ice and strain into an ice-filled glass. Garnish."
+    "instructions": "Shake all the ingredients with ice and strain into an ice-filled glass. Garnish.",
+    "date": "08/11/2018",
+    "made_at": "Tandem Office"
   },
   {
     "title": "Dunderstruck Rum Cocktail",
@@ -212,7 +244,9 @@
     "equipment": "shaker, strainer",
     "serving": "rocks",
     "garnish": "pineapple frond",
-    "instructions": "Shake all ingredients with ice. Strain into a rocks glass with one large cube. Garnish."
+    "instructions": "Shake all ingredients with ice. Strain into a rocks glass with one large cube. Garnish.",
+    "date": "15/02/2019",
+    "made_at": "Tandem Office"
   },
   {
     "title": "El Presidente Variation: Walter Mondale",
@@ -220,7 +254,7 @@
     "description": "This cocktail named for the former Minnesota senator and Vice President started as a variation on the classic El Presidente, with apple brandy and pear liqueur offering an extra layer of midwestern flavor.",
     "mixologist": "Adam Gorski, Young Joni, Minneapolis",
     "ingredients":[
-      {"amount": 1.5, "unit": "oz.", "name": "apple brandy (Young Joni uses Laird’s Bonded)"},
+      {"amount": 1.5, "unit": "oz.", "name": "apple brandy (Young Joni uses Laird's Bonded)"},
       {"amount": 1, "unit": "oz.", "name": "amontillado sherry"},
       {"amount": 0.667, "unit": "oz.", "name": "curaçao"},
       {"amount": 0.125, "unit": "oz.", "name": "pear liqueur", "description": "(Young Joni uses Mathilde Poire)"},
@@ -228,27 +262,32 @@
     "instructions": "Stir all ingredients with ice to chill, and strain into a chilled glass. Garnish.",
     "equipment": "barspoon, strainer",
     "serving": "cocktail",
-    "garnish": "lemon twist"
+    "garnish": "lemon twist",
+    "date": "05/10/2018",
+    "made_at": "Tandem Office"
   },
   {
     "title": "Everyday Superhero: A Blackberry Smash",
     "url": "https://imbibemagazine.com/recipe/everyday-superhero-a-blackberry-smash/",
     "description": "The richness of brandy and merlot meet the bright pop of fresh lime and berries in this stunning blackberry smash.",
+    "mixologist": "ALEX&NDER, Louisville, Kentucky",
     "instructions": "In a rocks glass, muddle the berries. Combine all of the other ingredients in a shaker with ice and shake vigorously. Add ice to the rocks glass, then strain the shaker ingredients into the glass and stir to combine. Garnish.",
     "ingredients":[
     {"amount": 2, "unit": "oz.", "name": "brandy", "description": "(ALEX&NDER uses Copper & Kings American Craft Aged Brandy)"},
     {"amount": 2, "unit": "oz.", "name": "merlot (or other red wine)"},
     {"amount": 0.75, "unit": "oz.", "name": "fresh lime juice"},
     {"amount": 0.75, "unit": "oz.", "name": "simple syrup (1:1)"},
-    {"amount": 2, "name": "fresh blackberries"}],
+    {"amount": 2, "unit": ":", "name": "fresh blackberries"}],
     "equipment": "muddler, shaker, strainer, barspoon",
     "serving": "rocks",
-    "garnish": "fresh blackberries"
+    "garnish": "fresh blackberries",
+    "date": "09/08/2019",
+    "made_at": "Tandem Office"
   },
   {
-    "title": "Fisher’s Mezcal Old Fashioned",
+    "title": "Fisher's Mezcal Old Fashioned",
     "url": "https://imbibemagazine.com/recipe/fishers-mezcal-old-fashioned/",
-    "description": "For his take on the Mezcal Old Fashioned, bartender Mauro Fisher sought to achieve complex flavors using an uncomplicated formula. On the cocktail menu at Sawyer in Seattle, a 2019 James Beard semifinalist for Best New Restaurant, the Fisher’s Fashioned seamlessly blends mezcal with a time-tested Italian amaro.",
+    "description": "For his take on the Mezcal Old Fashioned, bartender Mauro Fisher sought to achieve complex flavors using an uncomplicated formula. On the cocktail menu at Sawyer in Seattle, a 2019 James Beard semifinalist for Best New Restaurant, the Fisher's Fashioned seamlessly blends mezcal with a time-tested Italian amaro.",
     "mixologist": "Mauro Fisher, Sawyer, Seattle",
     "ingredients":[
     {"amount": 1.5, "unit": "oz.","name": "mezcal"},
@@ -259,12 +298,14 @@
     "equipment": "mixing glass, strainer",
     "serving": "rocks",
     "garnish": "orange twist",
-    "instructions": "Stir all the ingredients with ice to chill then strain into rocks glass over a large ice cube and garnish."
+    "instructions": "Stir all the ingredients with ice to chill then strain into rocks glass over a large ice cube and garnish.",
+    "date": "12/04/2019",
+    "made_at": "Tandem Office"
   },
   {
     "title": "GreenRiver Cocktail: Time Release",
     "url": "https://imbibemagazine.com/recipe/green-river-cocktail-time-release/",
-    "description": "Something a little different for gin drinkers, this complex cocktail is anchored by a juniper-forward gin, while yellow Chartreuse adds an herbaceous edge and sloe gin and white port lend fruity layers. “This is a stirred drink served up, so after time it will warm up a bit,” says former GreenRiver beverage director Julia Momose. “The ingredients taste very different when cold than when at room temperature, so the name plays off that idea. It’ll change as you drink it.”",
+    "description": "Something a little different for gin drinkers, this complex cocktail is anchored by a juniper-forward gin, while yellow Chartreuse adds an herbaceous edge and sloe gin and white port lend fruity layers. “This is a stirred drink served up, so after time it will warm up a bit,” says former GreenRiver beverage director Julia Momose. “The ingredients taste very different when cold than when at room temperature, so the name plays off that idea. It'll change as you drink it.”",
     "mixologist": "Julia Momose, GreenRiver, Chicago",
     "ingredients":[
     {"amount": 1.5, "unit": "oz.","name": "dry gin"},
@@ -274,24 +315,28 @@
     "equipment": "mixing glass, barspoon",
     "serving": "Nick and Nora",
     "garnish": "cherry",
-    "instructions": "Combine ingredients in a mixing glass with ice. Stir until chilled and strain into a Nick and Nora glass. Garnish. "
+    "instructions": "Combine ingredients in a mixing glass with ice. Stir until chilled and strain into a Nick and Nora glass. Garnish. ",
+    "date": "16/02/2018",
+    "made_at": "Tandem Office"
   },
   {
     "title": "Harvard Sour",
     "url": "https://imbibemagazine.com/recipe/harvard-sour/",
-    "description": "The warming notes of Sfumato Rabarbaro, applejack, Armagnac and spiced pumpkin syrup lend an autumnal edge to this cocktail. “I was looking to create a fall cocktail that had Massachusetts written all over it,” says Ned King of Amherst Coffee + Bar. “Something that made you think of picking apples and carving pumpkins. The name comes from Harvard Forest in Petersham, Massachusetts, and it’s only a few miles from where I grew up. It’s owned by Harvard University and is one of America’s oldest managed forests.”",
-    "mixologist": "Ned King, Amherst Coffee + Bar, Amherst, Massachusetts",
+    "description": "The warming notes of Sfumato Rabarbaro, applejack, Armagnac and spiced pumpkin syrup lend an autumnal edge to this cocktail. “I was looking to create a fall cocktail that had Massachusetts written all over it,” says Ned King of Amherst Coffee + Bar. “Something that made you think of picking apples and carving pumpkins. The name comes from Harvard Forest in Petersham, Massachusetts, and it's only a few miles from where I grew up. It's owned by Harvard University and is one of America's oldest managed forests.”",
+    "mixologist": "Ned King, Amherst Coffee + Bar, Amherst, Massachusetts",
     "ingredients":[
     {"amount": 1, "unit": "oz.", "name": "applejack"},
     {"amount": 1, "unit": "oz.", "name": "Armagnac"},
     {"amount": 0.5, "unit": "oz.", "name": "Cappelletti Amaro Sfumato"},
     {"amount": 0.75, "unit": "oz.", "name": "spiced pumpkin syrup"},
     {"amount": 0.75, "unit": "oz.", "name": "fresh lemon juice"},
-    {"amount": 1, "name": "egg white", "description": "(pasteurized, if you like)"}],
+    {"amount": 1, "unit": ":", "name": "egg white", "description": "(pasteurized, if you like)"}],
     "equipment": "shaker, strainer",
     "serving": "coupe",
     "garnish": "grated cinnamon",
-    "instructions": "Combine all the ingredients in a shaker and dry shake to emulsify egg white. Add ice to the shaker tin and shake until chilled. Strain into a chilled coupe. Garnish with a sprinkle of cinnamon in the center of the cocktail."
+    "instructions": "Combine all the ingredients in a shaker and dry shake to emulsify egg white. Add ice to the shaker tin and shake until chilled. Strain into a chilled coupe. Garnish with a sprinkle of cinnamon in the center of the cocktail.",
+    "date": "01/11/2018",
+    "made_at": "Tandem Office"
   },
   {
     "title": "Prickly Pear Cocktail: Hearts & Minds",
@@ -307,28 +352,33 @@
     {"amount": 1, "unit": "oz.", "name": "sparkling wine"}],
     "equipment": "shaker, strainer, barspoon",
     "serving": "flute",
-    "instructions": "Shake the rhum agricole, lemon, purée and syrup in a shaker tin with ice. Strain into a chilled flute and top with the sparkling wine. Float the Fernet on top of wine using the back of a barspoon"
+    "instructions": "Shake the rhum agricole, lemon, purée and syrup in a shaker tin with ice. Strain into a chilled flute and top with the sparkling wine. Float the Fernet on top of wine using the back of a barspoon",
+    "date": "12/10/2018",
+    "made_at": "Tandem Office"
   },
   {
-    "title": "I’m Old Fashioned",
+    "title": "I'm Old Fashioned",
     "url": "https://imbibemagazine.com/recipe/im-old-fashioned/",
-    "description": " Jungle Bird owner Krissy Harris found inspiration for this Old Fashioned riff in the tropical food and drink trends of the 1950s. “On many dishes from this time period, a maraschino cherry and ring of canned pineapple were the garnish, so I thought to split the rye base with Stiggin’s Fancy Pineapple Rum and replace the sugar cube with maraschino liqueur. Instead of the classic Angostura bitters, which I felt would overpower the tropical notes, I used Punt e Mes vermouth for a more balanced flavor.”",
+    "description": " Jungle Bird owner Krissy Harris found inspiration for this Old Fashioned riff in the tropical food and drink trends of the 1950s. “On many dishes from this time period, a maraschino cherry and ring of canned pineapple were the garnish, so I thought to split the rye base with Stiggin's Fancy Pineapple Rum and replace the sugar cube with maraschino liqueur. Instead of the classic Angostura bitters, which I felt would overpower the tropical notes, I used Punt e Mes vermouth for a more balanced flavor.”",
+    "mixologist": "Krissy Harris, Jungle Bird",
     "ingredients": [
       {"amount": 0.75, "unit": "oz.", "name": "rye whiskey"},
-      {"amount": 0.75, "unit": "oz.", "name": "Stiggins’ Fancy Pineapple Rum"},
+      {"amount": 0.75, "unit": "oz.", "name": "Stiggins' Fancy Pineapple Rum"},
       {"amount": 0.5, "unit": "oz.", "name": "Punt e Mes"},
       {"amount": 0.125, "unit": "oz.", "name": "maraschino liqueur"}],
     "equipment": "mixing glass, barspoon",
     "serving": "rocks",
     "garnish": "maraschino cherry and pineapple cube soaked with Angostura bitters",
-    "instructions": "Combine all of the ingredients in a mixing glass with ice, then stir for at least 20 seconds. Strain into a rocks glass over fresh ice, then garnish."
+    "instructions": "Combine all of the ingredients in a mixing glass with ice, then stir for at least 20 seconds. Strain into a rocks glass over fresh ice, then garnish.",
+    "date": "06/09/2019",
+    "made_at": "Tandem Office"
   },
   {
     "title": "Landing Gear Fizz Falernum Cocktail",
     "url": "https://imbibemagazine.com/recipe/landing-gear-fizz-falernum-cocktail/",
-    "description": "Delightfully low-proof, this falernum cocktail blends clove and cinnamon flavors with the bold, bitter notes of Punt e Mes. Mint and lime elevate everything into dangerously refreshing territory.",
-    "mixologist": "Tanner Morita, Kindred, Davidson, NC",
-    "instructions": "In a shaker, combine all ingredients except soda water. Shake with ice to chill. Strain into an ice-filled Collins glass, top with soda water and garnish.",
+    "description": "Delightfully low-proof, this falernum cocktail blends clove and cinnamon flavors with the bold, bitter notes of Punt e Mes. Mint and lime elevate everything into dangerously refreshing territory.",
+    "mixologist": "Tanner Morita, Kindred, Davidson, NC",
+    "instructions": "In a shaker, combine all ingredients except soda water. Shake with ice to chill. Strain into an ice-filled Collins glass, top with soda water and garnish.",
     "ingredients":[
       {"amount": 1, "unit": "oz.", "name": "falernum"},
       {"amount": 1, "unit": "oz.", "name": "Punt e Mes vermouth"},
@@ -336,12 +386,15 @@
       {"amount": 0.5, "unit": "oz.", "name": "amontillado sherry"}],
     "equipment": "shaker, strainer",
     "serving": "Collins",
-    "garnish": "lime wheel and mint sprig"
+    "garnish": "lime wheel and mint sprig",
+    "date": "07/12/2018",
+    "made_at": "Tandem Office"
   },
   {
     "title": "Low-ABV Cocktail: Floppy Disk",
     "url": "https://imbibemagazine.com/recipe/low-abv-cocktail-floppy-disk/",
-    "description": "This low-ABV cocktail gets a boost of flavor from mezcal and Cynar.",
+    "description": "This low-ABV cocktail gets a boost of flavor from mezcal and Cynar.",
+    "mixologist": "Jenner Cormier, Bar Kismet, Halifax, Nova Scotia",
     "ingredients": [
     {"amount": 2, "unit": "oz.", "name": "fresh ruby red grapefruit juice"},
     {"amount": 0.5, "unit": "oz.", "name": "Cynar"},
@@ -350,12 +403,15 @@
     {"amount": 2, "unit": "oz.", "name": "chilled soda"}],
     "equipment": "shaker, strainer",
     "serving": "double Old Fashioned",
-    "garnish": "grapefruit slice",
-    "instructions": "Combine the first 4 ingredients with ice and shake to chill. Add the soda to an ice-filled glass, then strain into the glass. Garnish."
+    "garnish": "grapefruit slice",
+    "instructions": "Combine the first 4 ingredients with ice and shake to chill. Add the soda to an ice-filled glass, then strain into the glass. Garnish.",
+    "date": "27/12/2018",
+    "made_at": "Tandem Office"
   },
   {
     "title": "Lux Princess From Coltivare Houston",
     "url": "https://imbibemagazine.com/recipe/lux-princess-from-coltivare-houston/",
+    "mixologist": "Coltivare Houston",
     "description": "Almonds and coconut combine with fresh mint in this delicious zero-proof recipe from Coltivare Houston.",
     "ingredients": [
     {"amount": 3, "unit": "oz.", "name": "coconut water"},
@@ -369,12 +425,14 @@
     "equipment": "shaker, strainer",
     "serving": "tulip or wine glass",
     "garnish": "mint sprig, cherries, powdered sugar",
-    "instructions": "Add the first 6 ingredients to a shaker with ice, then shake to chill. Strain into a glass filled with crushed ice, then top with the sparkling water. Garnish with mint and cherries, and dust powdered sugar on top."
+    "instructions": "Add the first 6 ingredients to a shaker with ice, then shake to chill. Strain into a glass filled with crushed ice, then top with the sparkling water. Garnish with mint and cherries, and dust powdered sugar on top.",
+    "date": "04/01/2019",
+    "made_at": "Tandem Office"
   },
   {
     "title": "Mary Astor, A Gin Sour",
     "url": "https://imbibemagazine.com/recipe/mary-astor/",
-    "description": "Bright and botanical, this gin-based sour gets an extra flavor boost from sherry and sloe gin.",
+    "description": "Bright and botanical, this gin-based sour gets an extra flavor boost from sherry and sloe gin.",
     "mixologist": "Church Cummings, Josephine Estelle at the Ace Hotel, New Orleans",
     "ingredients": [
     {"amount": 1, "unit": "oz.", "name": "London Dry gin"},
@@ -385,13 +443,15 @@
     "equipment": "shaker, strainer",
     "serving": "coupe",
     "garnish": "lemon peel",
-    "instructions": "Shake the ingredients together in a shaker with ice. Double strain into a chilled coupe, then garnish with an expressed lemon peel."
+    "instructions": "Shake the ingredients together in a shaker with ice. Double strain into a chilled coupe, then garnish with an expressed lemon peel.",
+    "date": "06/04/2018",
+    "made_at": "Tandem Office"
   },
   {
     "title": "Moi Vermouth Cocktail",
     "url": "https://imbibemagazine.com/recipe/moi-vermouth-cocktail/",
-    "description": "The prominent piney notes of a juniper-forward gin keep the spirit’s character at the forefront of this vermouth cocktail, even though it’s used in small amounts.",
-    "mixologist": "Sean Sullivan for Straight Law, Boston ",
+    "description": "The prominent piney notes of a juniper-forward gin keep the spirit's character at the forefront of this vermouth cocktail, even though it's used in small amounts.",
+    "mixologist": "Sean Sullivan for Straight Law, Boston ",
     "ingredients": [
     {"amount": 1, "unit": "oz.", "name":  "dry vermouth"},
     {"amount": 0.5, "unit": "oz.", "name":  "fresh lemon juice"},
@@ -400,12 +460,14 @@
     {"amount": 3, "unit": "oz.", "name":  "chilled tonic water"}],
     "equipment": "shaker, strainer",
     "serving": "Collins",
-    "instructions": "Combine the first 4 ingredients in a shaker and shake with ice to chill. Strain into glass filled with fresh ice; top with chilled tonic."
+    "instructions": "Combine the first 4 ingredients in a shaker and shake with ice to chill. Strain into glass filled with fresh ice; top with chilled tonic.",
+    "date": "22/02/2019",
+    "made_at": "Tandem Office"
   },
   {
     "title": "Naked in the Desert: A Sotol Cocktail",
     "url": "https://imbibemagazine.com/recipe/naked-in-the-desert-sotol-cocktail/",
-    "description": "In his nod to Joaquín Simó’s Naked and Famous cocktail, Diego Valencia skips the mezcal and brings in another Mexican spirit, sotol. The result is an extra earthy interpretation of the original.",
+    "description": "In his nod to Joaquín Simó's Naked and Famous cocktail, Diego Valencia skips the mezcal and brings in another Mexican spirit, sotol. The result is an extra earthy interpretation of the original.",
     "mixologist": "Diego Valencia, ARCA, Tulum, Mexico",
     "ingredients": [
     {"amount": 0.75, "unit": "oz.", "name": "sotol"},
@@ -415,7 +477,9 @@
     "equipment": "shaker, strainer",
     "serving": "rocks",
     "garnish": "grapefruit twist, six drops of Angostura bitters",
-    "instructions": "Add all the ingredients to a shaker with ice. Shake well and strain into a rocks glass over fresh ice. Garnish."
+    "instructions": "Add all the ingredients to a shaker with ice. Shake well and strain into a rocks glass over fresh ice. Garnish.",
+    "date": "17/08/2018",
+    "made_at": "Tandem Office"
   },
   {
     "title": "No. 2 Fleet Street, A Gin Cocktail",
@@ -428,16 +492,19 @@
     {"amount": 0.5, "unit": "oz.", "name": "fresh lemon juice"},
     {"amount": 0.5, "unit": "oz.", "name": "yellow Chartreuse"},
     {"amount": 2, "unit": "tsp.", "name": "simple syrup (1:1)"},
-    {"amount": 10, "name": "coffee beans"}],
+    {"amount": 10, "unit": ":", "name": "coffee beans"}],
     "equipment": "shaker, strainer, fine strainer",
     "serving": "coupe",
     "garnish": "dried pineapple wheel, 3 coffee beans",
-    "instructions": "Shake all the ingredients with ice to chill, then double strain into a chilled glass and garnish."
+    "instructions": "Shake all the ingredients with ice to chill, then double strain into a chilled glass and garnish.",
+    "date": "10/05/2019",
+    "made_at": "Tandem Office"
   },
   {
     "title": "Oaxaca Old Fashioned",
     "url": "https://imbibemagazine.com/recipe/oaxaca-old-fashioned-recipe/",
-    "description": "The New York bar Mayahuel has introduced countless drinkers to the joys of agave spirits, and this Oaxaca Old Fashioned—created by Phil Ward when he worked at Death & Co.—mixes reposado tequila with mezcal and the chocolate-spice notes of mole bitters to create a lovely riff on the classic.",
+    "mixologist": "Mayahuel, New York",
+    "description": "The New York bar Mayahuel has introduced countless drinkers to the joys of agave spirits, and this Oaxaca Old Fashioned—created by Phil Ward when he worked at Death & Co.—mixes reposado tequila with mezcal and the chocolate-spice notes of mole bitters to create a lovely riff on the classic.",
     "ingredients": [
     {"amount": 1.5, "unit": "oz.", "name": "reposado tequila (El Tesoro)"},
     {"amount": 0.5, "unit": "oz.", "name": "mezcal", "description": "(Del Maguey Chichicapa or San Luis del Rio)"},
@@ -446,12 +513,14 @@
     "equipment": "barspoon, strainer",
     "serving": "Old Fashioned",
     "garnish": "orange twist",
-    "instructions": "Combine all the ingredients except the orange twist in an Old Fashioned glass filled with one large ice cube. Stir until chilled. To top with a flamed orange twist, carefully hold a piece of orange peel about the size of a silver dollar, skin side down, over the drink. Light a match and use it to warm the skin side of the peel. Holding the match a few inches above the drink, quickly squeeze the peel in the direction of the match. The oil from the peel will briefly ignite, landing over the drink’s surface."
+    "instructions": "Combine all the ingredients except the orange twist in an Old Fashioned glass filled with one large ice cube. Stir until chilled. To top with a flamed orange twist, carefully hold a piece of orange peel about the size of a silver dollar, skin side down, over the drink. Light a match and use it to warm the skin side of the peel. Holding the match a few inches above the drink, quickly squeeze the peel in the direction of the match. The oil from the peel will briefly ignite, landing over the drink's surface.",
+    "date": "15/06/2018",
+    "made_at": "Tandem Office"
   },
   {
     "title": "Paloma Riff: Tasteful Nudes",
     "url": "https://imbibemagazine.com/recipe/paloma-riff-tasteful-nudes/",
-    "description": "Referencing both the classic Paloma cocktail and the Indian Paintbrush from Garage bar in Austin, the Tasteful Nudes is a prime example of Matthew Roedel’s mixing prowess. “I love the grapefruit/rosemary combination and thought that adding tequila to the mix would make for something quintessentially Southwestern,” he says of the drink. “Toasting the rosemary added a pleasant smokiness as well offering a striking visual presentation. From there, I thought the Aperol was a great way to marry the citrus-y/sweet elements of the drink to the bitter, vegetal aspects of the agave and the aromatics.”",
+    "description": "Referencing both the classic Paloma cocktail and the Indian Paintbrush from Garage bar in Austin, the Tasteful Nudes is a prime example of Matthew Roedel's mixing prowess. “I love the grapefruit/rosemary combination and thought that adding tequila to the mix would make for something quintessentially Southwestern,” he says of the drink. “Toasting the rosemary added a pleasant smokiness as well offering a striking visual presentation. From there, I thought the Aperol was a great way to marry the citrus-y/sweet elements of the drink to the bitter, vegetal aspects of the agave and the aromatics.”",
     "mixologist": "Matthew Roedel, The Public House, Bay City, Michigan",
     "ingredients": [
     {"amount": 1.5, "unit": "oz.", "name": "blanco tequila"},
@@ -463,13 +532,15 @@
     "equipment": "shaker, strainer",
     "serving": "rocks",
     "garnish": "1 sprig of rosemary, toasted",
-    "instructions": "Add all the ingredients except the rosemary to a shaker, shake and strain into an ice-filled collins glass. Toast the rosemary sprig with a kitchen torch until smoldering and place into the glass to garnish."
+    "instructions": "Add all the ingredients except the rosemary to a shaker, shake and strain into an ice-filled collins glass. Toast the rosemary sprig with a kitchen torch until smoldering and place into the glass to garnish.",
+    "date": "25/01/2019",
+    "made_at": "Tandem Office"
   },
   {
     "title": "Paloma Riff: Red Macaw Cocktail",
     "url": "https://imbibemagazine.com/recipe/red-macaw-paloma-riff/",
     "mixologist": "Jason Stevens, Boiler Nine Bar & Grill, Austin",
-    "description": "From the Booze Your Own Adventure menu at Boiler Nine in Austin, this refreshing highball was inspired by the flavor intersections of the Paloma and Donga Punch, a tiki cocktail discovered by Jeff “Beachbum” Berry made with rhum, Don’s mix and lime juice. “The flavors in the Red Macaw naturally pair with tequila and light rum, but each base spirit creates a uniquely different, delicious cocktail,” says beverage director Jason Stevens. Mezcal, aged rum, gin and grappa also work well.",
+    "description": "From the Booze Your Own Adventure menu at Boiler Nine in Austin, this refreshing highball was inspired by the flavor intersections of the Paloma and Donga Punch, a tiki cocktail discovered by Jeff “Beachbum” Berry made with rhum, Don's mix and lime juice. “The flavors in the Red Macaw naturally pair with tequila and light rum, but each base spirit creates a uniquely different, delicious cocktail,” says beverage director Jason Stevens. Mezcal, aged rum, gin and grappa also work well.",
     "ingredients": [
     {"amount": 1.25, "unit": "oz.", "name": "base spirit (Stevens suggests blanco tequila, rhum agricole, vodka)"},
     {"amount": 3.5, "unit": "oz.", "name": "grapefruit soda", "description": "(Stevens uses San Pellegrino)"},
@@ -479,15 +550,20 @@
     "equipment": "barspoon",
     "serving": "Collins",
     "garnish": "mint sprig, grapefruit peel",
-    "instructions": "Build all ingredients in a tall glass. Stir briefly to mix. Top with crushed ice. Garnish."
+    "instructions": "Build all ingredients in a tall glass. Stir briefly to mix. Top with crushed ice. Garnish.",
+    "date": "25/05/2018",
+    "made_at": "Tandem Office"
   },
   {
     "title": "Hibiscus Concentrate",
+    "description": "Concentrated Hibiscus tea, with a touch of cinnamon flavor",
     "ingredients":[
     {"amount": 13, "unit": "oz.", "name": "vodka"},
     {"amount": 1.5, "unit": "cup", "name": "dried hibiscus blossoms"},
     {"amount": 4, "unit": "stick", "name": "canela", "description": "crushed"}],
-    "instructions": "Combine all ingredients and let steep for 24-48 hours. Strain out solids and bottle. Yields 12 oz., Lasts for 6 months."
+    "instructions": "Combine all ingredients and let steep for 24-48 hours. Strain out solids and bottle. Yields 12 oz., Lasts for 6 months.",
+    "date": "25/05/2018",
+    "made_at": "Tandem Office"
   },
   {
     "title": "River Styx from Kindred San Diego",
@@ -503,13 +579,15 @@
     "equipment": "barspoon",
     "serving": "Old Fashioned",
     "garnish": "lemon twist",
-    "instructions": "Combine all the ingredients in an Old Fashioned glass, add ice and stir. Garnish."
+    "instructions": "Combine all the ingredients in an Old Fashioned glass, add ice and stir. Garnish.",
+    "date": "14/12/2018",
+    "made_at": "Tandem Office"
   },
   {
     "title": "Rye Cocktail from Meauxbar",
     "url": "https://imbibemagazine.com/recipe/rye-cocktail/",
     "mixologist": "Gillian White, Meauxbar, New Orleans",
-    "description": "Fresh lime juice and banana liqueur perk up this rye cocktail from Meauxbar in New Orleans.",
+    "description": "Fresh lime juice and banana liqueur perk up this rye cocktail from Meauxbar in New Orleans.",
     "ingredients": [
     {"amount": 1, "unit": "oz.", "name": "rye whiskey"},
     {"amount": 1, "unit": "oz.", "name": "Calvados"},
@@ -520,10 +598,12 @@
     {"amount": 1, "unit": "dash",  "name": "Angostura bitters"}],
     "equipment": "shaker, strainer",
     "serving": "coupe",
-    "instructions": "Shake all the ingredients together in a mixing tin with ice. Strain into a chilled coupe."
+    "instructions": "Shake all the ingredients together in a mixing tin with ice. Strain into a chilled coupe.",
+    "date": "31/08/2018",
+    "made_at": "Tandem Office"
   },
   {
-    "title": "Saturn’s Return from King Tai Bar",
+    "title": "Saturn's Return from King Tai Bar",
     "url": "https://imbibemagazine.com/recipe/saturns-return-king-tai-bar/",
     "description": "In this glass of tropical sunshine, coconut water and passion fruit meet herbaceous gin and a bittersweet aperitivo.",
     "instructions": "Combine ingredients in a shaker tin with ice and shake. Strain into a footed tulip glass over fresh ice and garnish with a lemon wheel.",
@@ -536,26 +616,30 @@
     {"amount": 0.25, "unit": "oz.", "name": "fresh lime juice"}],
     "equipment": "shaker, strainer",
     "serving": "footed tulip glass",
-    "garnish": "lemon wheel"
+    "garnish": "lemon wheel",
+    "date": "23/08/2019",
+    "made_at": "Tandem Office"
   },
   {
     "title": "Session Cocktail: Franco-Italian Swizzle",
     "url": "https://imbibemagazine.com/recipe/session-cocktail-franco-italian-swizzle/",
-    "description": "Inspired by ingredients from both sides of the Franco-Italian border, this low-proof refresher from Steven Robbins of Half Step in Austin is perfect for quenching thirst.",
+    "description": "Inspired by ingredients from both sides of the Franco-Italian border, this low-proof refresher from Steven Robbins of Half Step in Austin is perfect for quenching thirst.",
     "mixologist": "Reprinted with permission from Session Cocktails: Low-Alcohol Drinks for Any Occasion by Drew Lazor and the Editors of PUNCH, copyright © 2018. Published by Ten Speed Press, an imprint of Penguin Random House.”",
     "ingredients": [
     {"amount": 2, "unit": "oz.", "name": "Cocchi Americano"},
     {"amount": 0.75, "unit": "oz.", "name": "fresh lemon juice"},
     {"amount": 0.5, "unit": "oz.", "name": "green Chartreuse"},
-    {"name": "Soda water"}],
+    {"name": "Soda water", "unit": "to top"}],
     "equipment": "swizzle stick",
     "serving": "Collins",
     "garnish": "Lemon wheel",
-    "instructions": "Combine the Cocchi, lemon juice, and Chartreuse in a Collins glass, then top with the soda water. Add crushed ice and swizzle to mix, then garnish."
+    "instructions": "Combine the Cocchi, lemon juice, and Chartreuse in a Collins glass, then top with the soda water. Add crushed ice and swizzle to mix, then garnish.",
+    "date": "18/05/2018",
+    "made_at": "Tandem Office"
   },
 
   {
-    "title": "Alex Negranza’s Slick Watts",
+    "title": "Alex Negranza's Slick Watts",
     "url": "https://imbibemagazine.com/recipe/slick-watts/",
     "description": "Houston bartender (and 2018 Bartender of the Year) Alex Negranza—who moved to the city from Seattle—named this drink for fellow transplant Slick Watts, an NBA point guard who played for the Seattle Supersonics from 1973 to 1978 before moving to Texas to play for the Houston Rockets.",
     "ingredients": [
@@ -563,16 +647,18 @@
     {"amount": 0.75, "unit": "oz.", "name": "sweet vermouth","description": "(such as Cocchi Vermouth di Torino)"},
     {"amount": 0.25, "unit": "oz.", "name": "Campari"},
     {"amount": 0.25, "unit": "oz.", "name": "crème de mure"},
-    {"amount": 1,"unit": "dash", "name": "Peychaud’s bitters"}],
+    {"amount": 1,"unit": "dash", "name": "Peychaud's bitters"}],
     "equipment": "barspoon, strainer",
     "serving": "highball",
     "garnish": "orange peel, blackberry, cherry",
-    "instructions": "Stir all of the ingredients with ice to chill, strain into an ice-filled glass, then garnish."
+    "instructions": "Stir all of the ingredients with ice to chill, strain into an ice-filled glass, then garnish.",
+    "date": "23/03/2018",
+    "made_at": "Tandem Office"
   },
   {
     "title": "Sloe and Unsteady",
     "url": "https://imbibemagazine.com/recipe/sloe-and-unsteady/",
-    "description": "Much to the surprise of bartender Jessica Sanders, this tart and tangy sloe gin cocktail turned out to be a best-seller on the winter menu.",
+    "description": "Much to the surprise of bartender Jessica Sanders, this tart and tangy sloe gin cocktail turned out to be a best-seller on the winter menu.",
     "mixologist": "Jessica Sanders",
     "ingredients": [
     {"amount": 1.5, "unit": "oz.", "name": "sloe gin"},
@@ -583,7 +669,9 @@
     "equipment": "shaker, strainer",
     "serving": "coupe",
     "garnish": "lime wheel",
-    "instructions": "Shake all ingredients with ice to chill. Fine strain into a chilled coupe and garnish."
+    "instructions": "Shake all ingredients with ice to chill. Fine strain into a chilled coupe and garnish.",
+    "date": "28/09/2018",
+    "made_at": "Tandem Office"
   },
   {
     "title": "Strawberry Cocktail: Seven Year Itch",
@@ -594,38 +682,45 @@
     {"amount": 1.5, "unit": "oz.", "name": "strawberry-infused vodka"},
     {"amount": 0.5, "unit": "oz.", "name": "elderflower liqueur"},
     {"amount": 0.5, "unit": "oz.", "name": "fresh lemon juice"},
-    {"amount": 3, "name": "fresh strawberries"},
-    {"name": "Sparkling wine"}],
+    {"amount": 3, "unit": ":","name": "fresh strawberries"},
+    {"name": "Sparkling wine", "unit": "to top"}],
     "equipment": "muddler, shaker, strainer",
     "serving": "cocktail or wine",
     "garnish": "strawberry",
-    "instructions": "Muddle the strawberries in a mixing glass and add the elderflower liqueur, vodka and lemon. Shake with ice until chilled. Strain the mixture into a chilled glass with fresh ice. Top with sparkling wine and garnish."
+    "instructions": "Muddle the strawberries in a mixing glass and add the elderflower liqueur, vodka and lemon. Shake with ice until chilled. Strain the mixture into a chilled glass with fresh ice. Top with sparkling wine and garnish.",
+    "date": "13/07/2018",
+    "made_at": "Tandem Office"
   },
   {
     "title": "Strawberry-Infused Vodka",
-    "instructions": "Remove stems from about 30 strawberries, and cut them into quarters. Fill one quart-sized canning jar with the berries and add 1/4 cup brown sugar to jar. Fill jar with vodka, cover lid and shake. Then, put canning jar in the fridge for approximately 2 days. Once the mixture turns pink after a couple of days, strain vodka and toss the berries. For more strawberry flavor, repeat steps 1 – 5"
+    "description": "I might make this double, this wound up being really popular",
+    "instructions": "Remove stems from about 30 strawberries, and cut them into quarters. Fill one quart-sized canning jar with the berries and add 1/4 cup brown sugar to jar. Fill jar with vodka, cover lid and shake. Then, put canning jar in the fridge for approximately 2 days. Once the mixture turns pink after a couple of days, strain vodka and toss the berries. For more strawberry flavor, repeat steps 1 – 5",
+    "date": "13/07/2018",
+    "made_at": "Tandem Office"
   },
   {
     "title": "Highball: The Candice",
     "url": "https://imbibemagazine.com/recipe/the-candice/",
-    "description": "Equal parts sweet, tart and floral, this summery highball is a keeper.",
-    "mixologist": "Josh Pope, Icenhauer’s, Austin, Texas",
+    "description": "Equal parts sweet, tart and floral, this summery highball is a keeper.",
+    "mixologist": "Josh Pope, Icenhauer's, Austin, Texas",
     "ingredients": [
     {"amount": 1.5, "unit": "oz.", "name": "gin"},
     {"amount": 0.5, "unit": "oz.", "name": "elderflower liqueur"},
     {"amount": 0.5, "unit": "oz.", "name": "fresh grapefruit juice"},
     {"amount": 0.25, "unit": "oz.", "name": "fresh lime juice"},
     {"amount": 0.25, "unit": "oz.", "name": "simple syrup (1:1)"},
-    {"name": "Club soda", "description": "to top"}],
+    {"name": "Club soda", "unit": "to top"}],
     "equipment": "shaker, strainer",
     "serving": "Collins",
     "garnish": "grapefruit wheel",
-    "instructions": "Combine the first 5 ingredients in a shaker tin with ice. Shake until chilled. Fill a Collins glass with fresh ice and strain contents of mixing tin into the glass. Top with club soda. Garnish."
+    "instructions": "Combine the first 5 ingredients in a shaker tin with ice. Shake until chilled. Fill a Collins glass with fresh ice and strain contents of mixing tin into the glass. Top with club soda. Garnish.",
+    "date": "11/05/2018",
+    "made_at": "Tandem Office"
   },
   {
     "title": "The Watermelon Cooler From Best Intentions",
     "url": "https://imbibemagazine.com/recipe/the-watermelon-cooler-from-best-intentions/",
-    "description": "Real watermelon doesn’t make an appearance in this ultra-refreshing cooler from Best Intentions in Chicago, but the combination of Aperol, cucumber vodka and fino sherry do a great job of mimicking the juicy fruit’s flavor.",
+    "description": "Real watermelon doesn't make an appearance in this ultra-refreshing cooler from Best Intentions in Chicago, but the combination of Aperol, cucumber vodka and fino sherry do a great job of mimicking the juicy fruit's flavor.",
     "mixologist": "Andrew Prazich & Calvin Marty, Best Intentions, Chicago",
     "ingredients": [
     {"amount": 1.5, "unit": "oz.", "name": "cucumber vodka", "description": "(Best Intentions uses Crop)"},
@@ -633,11 +728,13 @@
     {"amount": 0.5, "unit": "oz.", "name": "fino sherry"},
     {"amount": 0.5, "unit": "oz.", "name": "fresh lemon juice"},
     {"amount": 0.5, "unit": "oz.", "name": "simple syrup (1:1)"},
-    {"amount": 2, "unit": "dash", "name": "Regan’s Orange Bitters"}],
+    {"amount": 2, "unit": "dash", "name": "Regan's Orange Bitters"}],
     "equipment": "shaker, strainer",
     "serving": "Collins",
     "garnish": "mint bundle",
-    "instructions": "Shake all the ingredients together in a mixing tin with ice. Pour over fresh ice cubes in a Collins glass. Garnished with fresh mint, lightly tapped on the back of the hand to release the aromatics."
+    "instructions": "Shake all the ingredients together in a mixing tin with ice. Pour over fresh ice cubes in a Collins glass. Garnished with fresh mint, lightly tapped on the back of the hand to release the aromatics.",
+    "date": "10/08/2018",
+    "made_at": "Tandem Office"
   },
   {
     "title": "Rye Whiskey Cocktail: To the Point",
@@ -651,13 +748,15 @@
     "equipment": "shaker, strainer",
     "serving": "rocks",
     "garnish": "orange peel, cinnamon",
-    "instructions": "Add the whiskey, Chartreuse and syrup to mixing glass with ice. Stir to chill, then strain over ice in a rocks glass. Grate cinnamon over the orange peel or orange rose. To make an orange rose: Peel 1 orange, then wrap the orange peel into a circle, starting with the thinnest peel as the center of the rose. Poke with cocktail pick, then insert a clove or cocktail pick to keep the rose together."
+    "instructions": "Add the whiskey, Chartreuse and syrup to mixing glass with ice. Stir to chill, then strain over ice in a rocks glass. Grate cinnamon over the orange peel or orange rose. To make an orange rose: Peel 1 orange, then wrap the orange peel into a circle, starting with the thinnest peel as the center of the rose. Poke with cocktail pick, then insert a clove or cocktail pick to keep the rose together.",
+    "date": "22/06/2018",
+    "made_at": "Tandem Office"
   },
   {
     "title": "Toronto Sour from Prairie School",
     "url": "https://imbibemagazine.com/recipe/toronto-sour-prairie-school/",
-    "description": "At Jim Meehan’s Chicago bar Prairie School (now closed), the New York Sour gets some Canadian flavor with the addition of rye whiskey and maple syrup.",
-    "mixologist": "Jim Meehan, Prairie School, Chicago  ",
+    "description": "At Jim Meehan's Chicago bar Prairie School (now closed), the New York Sour gets some Canadian flavor with the addition of rye whiskey and maple syrup.",
+    "mixologist": "Jim Meehan, Prairie School, Chicago  ",
     "ingredients": [
     {"amount": 2, "unit": "oz.", "name": "rye whiskey"},
     {"amount": 0.75, "unit": "oz.", "name": "fresh lemon juice"},
@@ -665,23 +764,27 @@
     {"amount": 0.5, "unit": "oz.", "name": "dry red wine", "description": "(Prairie School uses Malbec)"}],
     "equipment": "shaker, strainer",
     "serving": "coupe",
-    "instructions": "Shake the whiskey, lemon juice and maple syrup in a shaker tin with ice. Strain into a chilled coupe. Float the Malbec on top of the drink."
+    "instructions": "Shake the whiskey, lemon juice and maple syrup in a shaker tin with ice. Strain into a chilled coupe. Float the Malbec on top of the drink.",
+    "date": "22/01/2018",
+    "made_at": "Tandem Office"
   },
   {
     "title": "Wine Cocktail: Peacock Buck",
     "url": "https://imbibemagazine.com/recipe/wine-cocktail-peacock-buck/",
     "description": "A fruity Spanish rosé sets an easygoing tone for this refreshing wine cocktail.",
-    "mixologist": "Nicolas Bennett, Cedric’s at The Shed, New York City",
+    "mixologist": "Nicolas Bennett, Cedric's at The Shed, New York City",
     "ingredients": [
     {"amount": 2.5, "unit": "oz.", "name": "still rosé"},
     {"amount": 0.5, "unit": "oz.", "name": "dry vermouth"},
     {"amount": 0.75, "unit": "oz.", "name": "fresh lime juice"},
     {"amount": 0.5, "unit": "oz.", "name": "ginger syrup"},
     {"amount": 0.25, "unit": "oz.", "name": "cane syrup (1:1)"},
-    {"name": "Club soda, to top"}],
+    {"name": "Club soda", "unit": "to top"}],
     "equipment": "shaker, strainer, fine strainer",
     "serving": "wine",
-    "instructions": "Shake all the ingredients together with ice and fine strain into a wine glass over pebble ice. Top with soda."
+    "instructions": "Shake all the ingredients together with ice and fine strain into a wine glass over pebble ice. Top with soda.",
+    "date": "19/07/2019",
+    "made_at": "Tandem Office"
   },
   {
     "title": "Whiskey Passion Cocktail",
@@ -697,7 +800,9 @@
     "equipment": "shaker, strainer, fine strainer",
     "serving": "rocks",
     "garnish": "dehydrated (or fresh) lemon wheel, fresh rosemary sprig",
-    "instructions": "Add all of the ingredients to a shaker with ice. Shake to chill, then fine strain into a rocks glass over fresh ice. Garnish."
+    "instructions": "Add all of the ingredients to a shaker with ice. Shake to chill, then fine strain into a rocks glass over fresh ice. Garnish.",
+    "date": "11/10/2019",
+    "made_at": "Tandem Office"
   },
   {
     "title": "Ebenezer Scrooge Spritz",
@@ -714,30 +819,34 @@
     "equipment": "shaker, strainer",
     "serving": "flute",
     "garnish": "freshly grated nutmeg",
-    "instructions": "Combine the Cynar, ginger liqueur, lemon juice, brown sugar and bitters in a shaker. Add ice and shake well. Strain into a chilled flute, top with the sparkling wine, then garnish."
+    "instructions": "Combine the Cynar, ginger liqueur, lemon juice, brown sugar and bitters in a shaker. Add ice and shake well. Strain into a chilled flute, top with the sparkling wine, then garnish.",
+    "date": "20/12/2019",
+    "made_at": "Tandem Office"
   },
   {
-    "title": "Jack’s Rose Cocktail",
+    "title": "Jack's Rose Cocktail",
     "url": "https://imbibemagazine.com/recipe/jacks-rose-cocktail/",
-    "description": "At Watershed Kitchen & Bar, this riff on the classic Jack Rose is made with the distillery’s own bourbon and apple brandy.",
+    "description": "At Watershed Kitchen & Bar, this riff on the classic Jack Rose is made with the distillery's own bourbon and apple brandy.",
     "mixologist": "Josh Gandee, Watershed Kitchen & Bar, Columbus",
     "ingredients":[
     {"amount": 0.75, "unit": "oz.", "name": "bourbon"},
     {"amount": 0.75, "unit": "oz.", "name": "apple brandy"},
     {"amount": 0.75, "unit": "oz.", "name": "grenadine"},
     {"amount": 0.75, "unit": "oz.", "name": "fresh lime juice"},
-    {"name": "Chilled sparkling dry cider"}
+    {"name": "Chilled sparkling dry cider", "unit": "to top"}
       ],
     "equipment": "shaker, strainer",
     "serving": "coupe",
-    "instructions": "Shake the first 4 ingredients with ice, then strain into a chilled coupe and top with cider."
+    "instructions": "Shake the first 4 ingredients with ice, then strain into a chilled coupe and top with cider.",
+    "date": "01/11/2019",
+    "made_at": "Tandem Office"
   },
   {
     "title": "Mulled Wine Recipe",
     "url": "https://imbibemagazine.com/recipe/mulled-wine-recipe/",
-    "description": "Warming cocktails are perfect for transitioning into the fall and winter months, yet in the United States we’ve all but forgotten Europe’s oldest hot drink: mulled wine. “Mulled,” in this context, means heated and spiced; if you want to make it sound more exotic, call it by its medieval name, hypocras; folks thought it did a body good—so much so that they named it after Hippocrates, the ancient Greek father of medicine.",
-    "mixologist": "Wrap the spices and citrus zest in a large piece of cheesecloth, approximately 12 inches square, tying a knot to seal the bundle. Place the spice sack in non-reactive pot. Pour the wine into the pot and add the brandy. Simmer over low heat, stirring occasionally. When the mixture is warm, stir in the sugar, syrup or honey. Don’t let the mulled wine boil, or you risk cooking out the flavors. Leave over low heat for about 30 minutes while the flavors meld. Continue stirring occasionally. When the liquid is steaming lightly, it is ready to serve. Ladle into warm mugs. Have lemon wedges and extra sugar on hand so guests can squeeze in extra acidity if they want to cut the sweetness or add more sugar to indulge a sweet tooth. Note: Adjust ingredients and proportions to personal taste, but don’t let the sweetness overwhelm the wine’s acidity or the drink will be cloying.",
-    "instructions": "Like sangria in summer, mulled wine enhances the fruit of the vine with a wintry combination of spices, fruit, brandy and sugar. Think of it as liquid fruitcake, except that your guests will actually be glad to see it when the holidays roll around. It’s an easy alternative to the common spiced cider, and it’s a great way to breathe new life into a stale bottle of wine.",
+    "description": "Warming cocktails are perfect for transitioning into the fall and winter months, yet in the United States we've all but forgotten Europe's oldest hot drink: mulled wine. “Mulled,” in this context, means heated and spiced; if you want to make it sound more exotic, call it by its medieval name, hypocras; folks thought it did a body good—so much so that they named it after Hippocrates, the ancient Greek father of medicine.",
+    "mixologist": "Wrap the spices and citrus zest in a large piece of cheesecloth, approximately 12 inches square, tying a knot to seal the bundle. Place the spice sack in non-reactive pot. Pour the wine into the pot and add the brandy. Simmer over low heat, stirring occasionally. When the mixture is warm, stir in the sugar, syrup or honey. Don't let the mulled wine boil, or you risk cooking out the flavors. Leave over low heat for about 30 minutes while the flavors meld. Continue stirring occasionally. When the liquid is steaming lightly, it is ready to serve. Ladle into warm mugs. Have lemon wedges and extra sugar on hand so guests can squeeze in extra acidity if they want to cut the sweetness or add more sugar to indulge a sweet tooth. Note: Adjust ingredients and proportions to personal taste, but don't let the sweetness overwhelm the wine's acidity or the drink will be cloying.",
+    "instructions": "Like sangria in summer, mulled wine enhances the fruit of the vine with a wintry combination of spices, fruit, brandy and sugar. Think of it as liquid fruitcake, except that your guests will actually be glad to see it when the holidays roll around. It's an easy alternative to the common spiced cider, and it's a great way to breathe new life into a stale bottle of wine.",
     "ingredients":[
     {"amount": 1, "unit": "bottle", "name": "inexpensive red wine"},
     {"amount": 2, "unit": "sticks", "name": "cinnamon"},
@@ -745,24 +854,28 @@
     {"amount": 0.5, "unit": "tsp.", "name": "ginger root, coarsely grated"},
     {"amount": 0.5, "unit": "tsp.", "name": "nutmeg, coarsely grated"},
     {"amount": 5, "unit": "pods", "name": "cardamom, cracked"},
-    {"name": "Zest of half an orange or lemon"},
+    {"name": "Zest of half an orange or lemon", "unit": "half"},
     {"amount": 0.5, "unit": "cup", "name": "brown sugar (maple syrup or honey is a great substitution)"},
-    {"amount": 0.25, "unit": "cup", "name": "brandy"}]
+    {"amount": 0.25, "unit": "cup", "name": "brandy"}],
+    "date": "25/12/2020",
+    "made_at": "Buck City"
   },
   {
     "title": "The Brown Turkey",
     "url": "https://imbibemagazine.com/recipe/the-brown-turkey-recipe-2/",
-    "description": "One bite of savory fig stuffing served at a holiday feast and Justin Chamberlin knew he’d found his next cocktail inspiration. This Thanksgiving cocktail combines the subtle spices of aged rum with the sultry sweetness of figs and a bright pop of sparkling wine.",
+    "description": "One bite of savory fig stuffing served at a holiday feast and Justin Chamberlin knew he'd found his next cocktail inspiration. This Thanksgiving cocktail combines the subtle spices of aged rum with the sultry sweetness of figs and a bright pop of sparkling wine.",
     "mixologist": "Justin L. Chamberlin, Sagra Trattoria and Bar, Austin, Texas",
     "ingredients":[
     {"amount": 1, "unit": "oz.", "name": "aged rum"},
     {"amount": 1, "unit": "oz.", "name": "fig and brown sugar reduction"},
-    {"amount": 3, "unit": "dash", "name": "orange bitters","description": "(Chamberlin uses Regans’)"},
+    {"amount": 3, "unit": "dash", "name": "orange bitters","description": "(Chamberlin uses Regans')"},
     {"amount": 2, "unit": "oz.", "name": "sparkling wine"}],
     "equipment": "shaker, strainer, fine strainer",
     "serving": "flute",
     "garnish": "orange twist",
-    "instructions": "Combine all ingredients, except sparkling wine, and shake with ice to chill. Fine-strain into a chilled flute, top with sparkling wine and garnish."
+    "instructions": "Combine all ingredients, except sparkling wine, and shake with ice to chill. Fine-strain into a chilled flute, top with sparkling wine and garnish.",
+    "date": "21/12/2019",
+    "made_at": "Tandem Office"
   },
   {
     "title": "The Peppermint Dandy Cocktail",
@@ -777,28 +890,32 @@
     "equipment": "shaker, strainer",
     "serving": "cordial",
     "garnish": "peppermint candy rim",
-    "instructions": "Rim half the glass with simple syrup and coat with crushed peppermint candies. In a shaker, add all of the ingredients with ice and shake well. Strain into the rimmed glass."
+    "instructions": "Rim half the glass with simple syrup and coat with crushed peppermint candies. In a shaker, add all of the ingredients with ice and shake well. Strain into the rimmed glass.",
+    "date": "13/12/2019",
+    "made_at": "Tandem Office"
   },
   {
-    "title": "Rhubarb-Ginger Planter’s Punch",
+    "title": "Rhubarb-Ginger Planter's Punch",
     "url": "https://imbibemagazine.com/recipe/rhubarb-ginger-planters-punch/",
-    "description": "Planter’s Punch, the tiki classic with Caribbean origins, has sparked countless riffs over the years. Here, photographer and recipe developer Eva Kosmas Flores gives the drink a seasonal twist with the inclusion of rhubarb-ginger syrup in place of grenadine.",
-    "mixologist": "Reprinted with permission from First We Eat: Good Food for Simple Gatherings from My Pacific Northwest Kitchen by Eva Kosmas Flores, copyright 2018. Published by Abrams.",
+    "description": "Planter's Punch, the tiki classic with Caribbean origins, has sparked countless riffs over the years. Here, photographer and recipe developer Eva Kosmas Flores gives the drink a seasonal twist with the inclusion of rhubarb-ginger syrup in place of grenadine.",
+    "mixologist": "Reprinted with permission from First We Eat: Good Food for Simple Gatherings from My Pacific Northwest Kitchen by Eva Kosmas Flores, copyright 2018. Published by Abrams.",
     "ingredients": [
     {"amount": 2 , "unit": "cup", "name": "pineapple juice"},
     {"amount": 1.5, "unit": "cup", "name": "golden rum"},
     {"amount": 0.25, "unit": "cup", "name": "fresh lime juice"},
     {"amount": 0.25, "unit": "cup", "name": "rhubarb-ginger syrup"},
     {"amount": 1, "unit": "piece", "name": "rhubarb", "description": "6 inches, cut into slices 1/2-inch thick"}],
-    "instructions": "In a large pitcher, stir together the pineapple juice, rum, lime juice, syrup and the rhubarb slices. Distribute among four ice-filled glasses and serve. Serves 4."
+    "instructions": "In a large pitcher, stir together the pineapple juice, rum, lime juice, syrup and the rhubarb slices. Distribute among four ice-filled glasses and serve. Serves 4.",
+    "date": "13/09/2019",
+    "made_at": "Tandem Office"
   },
 {
   "title": "Hibiscus Tea Cobbler",
   "url": "https://imbibemagazine.com/recipe/hibiscus-tea-cobbler/",
-  "description": null,
-  "mixologist": null,
-  "ingredients": null,
-  "instructions": [
+  "description": "ibiscus tea lends a floral edge to this Cognac-based cobbler. Instead of shaking the drink, Bar Casa Vale bar manager Daniel Parker Guidry treats the recipe more like a swizzle. “It makes for a more potent and refreshing version of the drink,” he says.",
+  "mixologist": "Daniel Parker Guidry, Bar Casa Vale, Portland, Oregon",
+  "instructions": "In a Collins glass, combine the grenadine and lemon wheel and muddle until the oils from the citrus are released into the syrup. Add the curaçao, cognac and hibiscus tea, then fill with crushed ice. Stir until the cocktail starts to dilute, then add more ice and garnish. \n Hibiscus Tea: Pour 4¼ cups of boiling water over 3½ oz. of dried hibiscus flowers, steep for 10 minutes, strain through cheese cloth and bottle.",
+  "ingredients": [
     {"amount": 1, "unit": "tsp", "name": "grenadine"},
     {"amount": 1, "unit": "wheel", "name": "of lemon","description": "sliced in two"},
     {"amount": 1, "unit": "oz.", "name": "curaçao"},
@@ -806,22 +923,27 @@
     {"amount": 1.5, "unit": "oz.", "name": "hibiscus tea"}],
 "equipment": "muddler, barspoon",
 "serving": "collins",
-"garnish": "lemon wheel, hibiscus flowers, Amarena cherry"
+"garnish": "lemon wheel, hibiscus flowers, Amarena cherry",
+"date": "30/03/2018",
+"made_at": "Tandem Office"
 },
 {"title": "Vanilla Syrup",
+  "description": "Classic flavored simple syrup",
   "instructions": "Combine simple syrup with vanilla extract. Shake to combine and refrigerate for up to 2 weeks.",
   "ingredients": [
     {"amount": 1, "unit": "quart", "name": "simple syrup (1:1)"},
     {"amount": 1, "unit": "Tbsp.", "name": "vanilla extract"}
   ]},
   {"title": "Fig and Brown Sugar Reduction",
-  "instructions": "Combine water and brown sugar in a saucepan over medium-high heat and stir to dissolve sugar. Add figs, and bring to a boil. Cover, remove from heat and let steep for 25 minutes. Fine-strain into a glass bottle and refrigerate for up to 2 weeks.",
+    "description": "For the Brown Turkey cocktail",
+  "instructions": "Combine water and brown sugar in a saucepan over medium-high heat and stir to dissolve sugar. Add figs, and bring to a boil. Cover, remove from heat and let steep for 25 minutes. Fine-strain into a glass bottle and refrigerate for up to 2 weeks.",
   "ingredients": [
     {"amount": 1, "unit": "cup", "name": "water"},
     {"amount": 1, "unit": "cup", "name": "brown sugar"},
     {"amount": 0.5, "unit": "cup", "name": "chopped fresh figs", "description": "(Chamberlin uses Brown Turkeys, but feel free to substitute any variety)"}
   ]},
   { "title": "Rhubarb-Ginger syrup",
+    "description": "For the Planter's Punch",
   "instructions": "In a small saucepan, combine rhubarb stalks, ginger, sugar and water. Bring to a boil over medium high heat. Reduce the heat to low and cook until the rhubarb has nearly disintegrated and the ginger has softened, 10 to 15 minutes. Remove from heat and allow to cool for 5 minutes. Strain the syrup into a bowl and discard the solids.",
   "ingredients": [
     {"amount": 3, "unit": "stalk", "name": "rhubarb", "description": "cut into 1/2 inch slices"},
@@ -831,15 +953,17 @@
   ]},
   {
     "title": "Sage Syrup",
+    "description": "This one has a really earthy good smell",
     "ingredients": [
       {"amount": 1, "unit": "cup", "name": "water"},
       {"amount": 1, "unit": "cup", "name": "sugar"},
-      {"amount": 8, "name": "fresh sage leaves"}
+      {"amount": 8, "name": "fresh sage leaves", "unit": ":"}
     ],
     "instructions": "Combine sugar with water in a saucepan over medium heat, stirring until the sugar is dissolved. Remove from heat and allow to cool to room temperature. Add sage leaves and let sit for 24 hours. Strain out the leaves and bottle for use. Refrigerate for up to 2 weeks."
   },
   {
     "title": "Banana Coconut Syrup",
+    "description": "The coconut that you'll have left over, tastes like an unbaked macaron ::chef's kiss::",
     "instructions": "Toast coconut flakes until fragrant, then add coconut milk and white sugar. Stir until dissolved and strain out the solids. Add liqueur and shake to combine.",
     "ingredients": [
       {"amount": 2,"unit": "cup", "name": "unsweetened coconut flakes"},
@@ -850,16 +974,18 @@
   },
   {
     "title": "Mezcal Peach Syrup",
+    "description": "needs description",
     "ingredients": [
-      {"amount": 2, "name": "ripe peaches"},
+      {"amount": 2, "name": "ripe peaches", "unit": ":"},
       {"amount": 2, "unit": "oz.", "name": "mezcal", "description": "(Beck uses Del Maguey Vida)"},
       {"amount": 3, "unit": "oz.", "name": "light agave nectar or simple syrup (1:1)"},
-      {"amount": 4, "unit": "oz.", "name": "peach nectar ", "description": "(such as Kern’s or Jumex)"}
+      {"amount": 4, "unit": "oz.", "name": "peach nectar ", "description": "(such as Kern's or Jumex)"}
     ],
-    "instructions": "Remove pits and cut the peaches into half-inch cubes. Pour the mezcal into a saucepan and carefully burn off some of the alcohol (takes about 1 minute). Add the peaches and the simple syrup or agave nectar. (For extra spice, an optional .25 teaspoon of chili powder can be added). Bring to a boil over medium-high heat for 5 minutes, then reduce to a simmer for another 15 minutes. Remove from heat and let cool. Add the mixture to a blender and purée with the peach nectar until smooth. Keep refrigerated for up to 1 week.  Makes about 12 oz. "
+    "instructions": "Remove pits and cut the peaches into half-inch cubes. Pour the mezcal into a saucepan and carefully burn off some of the alcohol (takes about 1 minute). Add the peaches and the simple syrup or agave nectar. (For extra spice, an optional .25 teaspoon of chili powder can be added). Bring to a boil over medium-high heat for 5 minutes, then reduce to a simmer for another 15 minutes. Remove from heat and let cool. Add the mixture to a blender and purée with the peach nectar until smooth. Keep refrigerated for up to 1 week.  Makes about 12 oz. "
   },
   {
     "title": "Strawberry Syrup",
+    "description": "needs description",
     "ingredients": [
       {"amount": 1, "unit": "quart", "name": "fresh strawberries"},
       {"amount": 1, "unit": "quart", "name": "sugar"}
@@ -868,6 +994,7 @@
   },
   {
     "title": "Spiced Pumpkin Syrup",
+    "description": "needs description",
     "ingredients": [
     {"amount": 1, "unit": "cup", "name": "granulated white sugar"},
     {"amount": 1, "unit": "cup", "name": "Demerara sugar"},
@@ -875,10 +1002,11 @@
     {"amount": 0.5, "unit": "tsp.", "name": "grated cinnamon"},
     {"amount": 1, "unit": "tsp.", "name": "vanilla extract"},
     {"amount": 6, "unit": "Tbsp.", "name": "pumpkin purée"}],
-    "instructions": "Combine all the ingredients in a saucepan over medium heat, stir until combined. Once the mixture starts to boil, reduce heat to medium/low and let simmer for 3 min. Remove from heat and let cool. Strain the liquid into a bottle and store in a lidded container in the refrigerator."
+    "instructions": "Combine all the ingredients in a saucepan over medium heat, stir until combined. Once the mixture starts to boil, reduce heat to medium/low and let simmer for 3 min. Remove from heat and let cool. Strain the liquid into a bottle and store in a lidded container in the refrigerator."
   },
   {
     "title":"Salt tincture",
+    "description": "needs description",
     "instructions": "Combine and shake until salt is dissolved.",
     "ingredients": [
       {"amount": 0.5, "unit": "oz.", "name": "sea salt"},
@@ -887,6 +1015,7 @@
   },
   {
     "title": "Rosemary Syrup",
+    "description": "needs description",
     "ingredients": [
       {"amount": 6, "unit": "sprig", "name": "rosemary"},
       {"amount": 2, "unit": "cup", "name": "near-boiling water"}
@@ -895,6 +1024,7 @@
   },
   {
     "title": "Earl Grey tea syrup",
+    "description": "needs description",
     "ingredients": [
       {"amount": 8, "unit": "oz.", "name": "earl grey tea"},
       {"amount":16, "unit": "oz.", "name": "sugar in the raw"}
@@ -903,6 +1033,7 @@
   },
   {
     "title": "Raspberry Syrup",
+    "description": "needs description",
     "ingredients": [
       {"amount": 8, "unit": "oz.", "name": "earl grey tea"},
       {"amount":2, "unit": "cup", "name": "demerara sugar"},
@@ -913,14 +1044,16 @@
   },
   {
     "title": "Yellow Bell Pepper Syrup",
+    "description": "needs description",
     "ingredients": [
-      {"amount": 1, "name": "yellow bell pepper"},
-      {"name": "white sugar"}
+      {"amount": 1, "name": "yellow bell pepper", "unit": ":"},
+      {"name": "white sugar", "unit": "part", "amount": "equal"}
     ],
      "instructions": "Juice yellow bell pepper and combine the juice in a saucepan with equal parts of white sugar. Stir over medium heat until the sugar dissolves. Remove from the heat, cool, strain into a bottle and store in the refrigerator for up to 2 weeks."
   },
   {
     "title": "Passion Fruit Syrup",
+    "description": "needs description",
     "ingredients": [
       {"amount":1, "unit": "quart", "name": "Perfect Purée passion fruit concentrate"},
       {"amount":1, "unit": "quart", "name": "simple syrup (1:1)"}
@@ -950,7 +1083,7 @@
   {
     "title": "P&P Pisco Cocktail",
     "url": "https://imbibemagazine.com/recipe/pp-pisco-cocktail/",
-    "description": "This fizzy pisco cocktail matches the floral qualities of pisco with the earthiness of Pimm’s.",
+    "description": "This fizzy pisco cocktail matches the floral qualities of pisco with the earthiness of Pimm's.",
     "ingredients": [
       {"amount": 1, "unit": "oz.", "name": "pisco"},
       {"amount": 1, "unit": "oz.", "name": "Pimm's No. 1"},
@@ -959,11 +1092,11 @@
       {"amount": 0.5, "unit": "oz.", "name": "fresh lime juice"},
       {"amount": 0.25, "unit": "oz.", "name": "rich simple syrup"},
       {"amount": 1, "unit": "oz.", "name": "Angostura Bitters"},
-      { "name": "Chilled Ginger Beer", "description": "to taste"}
+      { "name": "Chilled Ginger Beer", "unit": "to taste"}
     ],
     "equipment": "shaker, strainer",
     "serving": "Collins",
     "garnish": "mint sprig, cucumber, lemon",
-    "instructions": "Combine ingredients in a shaker with ice and shake to chill. Strain into a Collins glass filled with crushed ice. Top with ginger beer and garnish."
+    "instructions": "Combine ingredients in a shaker with ice and shake to chill. Strain into a Collins glass filled with crushed ice. Top with ginger beer and garnish."
   }
 ]

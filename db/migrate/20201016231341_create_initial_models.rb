@@ -8,7 +8,7 @@ class CreateInitialModels < ActiveRecord::Migration[6.0]
 
     create_table :recipes do |t|
       t.string :title, null: false
-      t.string :mixologist, null: false
+      t.string :mixologist
       t.text :description, null: false
       t.string :original_url
       t.string :publication

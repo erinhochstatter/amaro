@@ -5,12 +5,18 @@ File.open('db/fixtures/recipes.json', "r") do |f|
   recipes_json = JSON.parse(f.read)
   recipes_json.each do |recipe|
 
-    recipe_model = Recipe.create(title: recipe["title"], mixologist: recipe["mixologist"], description: recipe["description"], original_url: recipe["url"], publication: "Imbibe Magazine", equipment: recipe["equipment"], glass: recipe["serving"], garnish: recipe["garnish"])
+    puts(recipe["title"])
+
+    recipe_model = Recipe.create!(title: recipe["title"], mixologist: recipe["mixologist"], description: recipe["description"], original_url: recipe["url"], publication: "Imbibe Magazine", equipment: recipe["equipment"], glass: recipe["serving"], garnish: recipe["garnish"])
 
     recipe["ingredients"]&.each do |item|
-      ingredient = Ingredient.find_or_create_by(name: item["name"], description: item["description"])
-      unit = Unit.find_or_create_by(name: item["unit"])
-      IngredientRecipe.create(recipe_id: recipe_model.id, ingredient_id: ingredient.id, unit: unit, quantity: item["amount"])
+      ingredient = Ingredient.find_or_create_by!(name: item["name"], description: item["description"])
+      unit = Unit.find_or_create_by!(name: item["unit"])
+      IngredientRecipe.create!(recipe_id: recipe_model.id, ingredient_id: ingredient.id, unit: unit, quantity: item["amount"])
+    end
+
+    if recipe["made_at"].present?
+      Pour.create!(location: recipe["made_at"], prepared_at: recipe["date"].to_date, recipe: recipe_model)
     end
   end
 end
