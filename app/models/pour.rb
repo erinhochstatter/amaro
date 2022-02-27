@@ -1,6 +1,6 @@
 class Pour < ApplicationRecord
   belongs_to :recipe
-  has_one_attached :image
+  has_many_attached :photos
 
   validates :prepared_at, presence: true
   validates :location, presence: true

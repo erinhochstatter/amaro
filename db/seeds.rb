@@ -16,8 +16,14 @@ File.open('db/fixtures/recipes.json', "r") do |f|
     end
 
     if recipe["made_at"].present?
-      Pour.create!(location: recipe["made_at"], prepared_at: recipe["date"].to_date, recipe: recipe_model)
+      pour = Pour.create!(location: recipe["made_at"], prepared_at: recipe["date"].to_date, recipe: recipe_model)
+      if recipe["images"].present?
+        recipe["images"]&.each do |img|
+          pour.photos.attach(io: File.open(Rails.root.join("db/fixtures").join(img)), filename: img)
+        end
+      end
     end
+
   end
 end
 
