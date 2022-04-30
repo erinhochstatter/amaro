@@ -4,7 +4,7 @@ An ISO 8601-encoded datetime
 scalar ISO8601DateTime
 
 type Ingredient {
-  description: String!
+  description: String
   id: ID!
   name: String!
 }
@@ -17,9 +17,14 @@ type IngredientRecipe {
   unit: Unit
 }
 
+type Photo {
+  url: String!
+}
+
 type Pour {
   id: ID!
   location: String!
+  photos: [Photo!]
   preparedAt: ISO8601DateTime!
   recipe: Recipe!
 }
@@ -54,6 +59,16 @@ type Query {
   All the recipes
   """
   recipes: [Recipe!]!
+
+  """
+  Find a scoop by ID
+  """
+  scoop(id: ID!): Scoop
+
+  """
+  All the scoops
+  """
+  scoops: [Scoop!]!
 }
 
 type Recipe {
@@ -63,6 +78,13 @@ type Recipe {
   mixologist: String!
   originalUrl: String!
   title: String!
+}
+
+type Scoop {
+  id: ID!
+  photos: [Photo!]
+  preparedAt: ISO8601DateTime!
+  recipe: Recipe!
 }
 
 type Unit {

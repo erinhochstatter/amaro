@@ -9,6 +9,11 @@ module Types
       argument :id, ID, required: true
     end
 
+    field :scoop, ScoopType, null: true do
+      description "Find a scoop by ID"
+      argument :id, ID, required: true
+    end
+
     field :recipe, RecipeType, null: true do
       description "Find a recipe by ID"
       argument :id, ID, required: true
@@ -20,6 +25,7 @@ module Types
     end
 
     field :pours, [Types::PourType], "All the pours", null: false
+    field :scoops, [Types::ScoopType], "All the scoops", null: false
     field :recipes, [Types::RecipeType], "All the recipes", null: false
     field :ingredient_recipes, [Types::IngredientRecipeType], "All the ingredient_recipes", null: false
 
@@ -29,6 +35,14 @@ module Types
 
     def pours
       Pour.all
+    end
+
+    def scoop(id:)
+      Scoop.find(id)
+    end
+
+    def scoops
+      Scoop.all
     end
 
     def recipe(id:)
