@@ -3,7 +3,7 @@ FactoryBot.define do
     title { "#{Faker::Dessert.flavor} #{Faker::Team.creature}" }
     mixologist { Faker::Restaurant.name }
     original_url { Faker::Internet.url }
-    description { Faker::Food.ingredient }
+    description { Faker::Food.description }
 
     factory :recipe_with_ingredient_recipes do
       transient do
