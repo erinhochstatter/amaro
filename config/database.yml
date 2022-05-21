@@ -80,6 +80,4 @@ test:
 #
 production:
   <<: *default
-  database: amaro_production
-  username: amaro
-  password: <%= ENV['AMARO_DATABASE_PASSWORD'] %>
+  url: <%= ENV['DATABASE_URL'] %>
